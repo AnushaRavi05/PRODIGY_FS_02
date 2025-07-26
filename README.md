@@ -20,7 +20,7 @@ This is the frontend application for the Employee Management System, built to ma
 - **Redux** 🗂️: Used for managing global state (authentication, employee data).
 - **Axios** 📡: For making HTTP requests to the backend API.
 - **React Router** 🛣️: To handle navigation and routing between different pages.
-- **Bootstrap** 💄: Used for styling and responsive layout.
+- **Bootstrap** : Used for styling and responsive layout.
 - **Netlify** 🌐: Deployed on Netlify for a fast and reliable hosting experience.
 
 
